@@ -9,7 +9,7 @@
 
   "miniapp": {
     "version": "1",
-  "primaryCategory": "Art-Creativity",
+  "primaryCategory": "art-creativity",
   "tags": ["NFT", "Social", "Creator"],
 
     "name": "Tweet NFT",
