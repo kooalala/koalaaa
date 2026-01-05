@@ -8,10 +8,10 @@
   },
 
   "miniapp": {
-    "version": "1.0.0",
-  "primaryCategory": "Art & NFTs",
+    "version": "1",
+  "primaryCategory": "Art-Creativity",
   "tags": ["NFT", "Social", "Creator"],
-  
+
     "name": "Tweet NFT",
     "description": "Create, explore, and interact with tweet-based NFTs.",
     "iconUrl": "https://tweet-nft.vercel.app/icon.png",
