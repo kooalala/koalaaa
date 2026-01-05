@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="base:app_id" content="695a542c4d3a403912ed8cb0" />
+    <title>TweetNFT</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="module" src="/src/index.tsx"></script>
+
+    <script>
+      // Fix wallet conflicts
+      window.addEventListener("load", function () {
+        if (window.ethereum && window.ethereum.providers) {
+          window.ethereum = window.ethereum.providers[0];
+        }
+      });
+    </script>
+  </body>
+</html>
