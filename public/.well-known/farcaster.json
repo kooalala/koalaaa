@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "name": "Tweet NFT",
+    "description": "Create, explore, and interact with tweet-based NFTs.",
+    "iconUrl": "https://tweet-nft.vercel.app/icon.png",
+    "homeUrl": "https://tweet-nft.vercel.app/",
+    "imageUrl": "https://tweet-nft.vercel.app/preview.png",
+    "buttonTitle": "Open App",
+    "splashImageUrl": "https://tweet-nft.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
