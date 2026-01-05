@@ -1,7 +1,5 @@
 {
-  "version": "1.0.0",
-  "primaryCategory": "Art & NFTs",
-  "tags": ["NFT", "Social", "Creator"],
+  
 
   "accountAssociation": {
     "header": "eyJmaWQiOi0xLCJ0eXBlIjoiYXV0aCIsImtleSI6IjB4Yzg0OTA5N2NGMkFENzBkOUNhMjc3QTdlOWE4MUZEM2VDOTcwQUNiRSJ9",
@@ -10,6 +8,10 @@
   },
 
   "miniapp": {
+    "version": "1.0.0",
+  "primaryCategory": "Art & NFTs",
+  "tags": ["NFT", "Social", "Creator"],
+  
     "name": "Tweet NFT",
     "description": "Create, explore, and interact with tweet-based NFTs.",
     "iconUrl": "https://tweet-nft.vercel.app/icon.png",
